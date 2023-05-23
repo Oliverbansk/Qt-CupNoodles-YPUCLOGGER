@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>posters/Andrei_Rublev.jpg</file>
+        <file>posters/Birdman.jpg</file>
+        <file>posters/Das_Boot.jpg</file>
+        <file>posters/Das_Weisse_Band.jpg</file>
+        <file>posters/Death_on_the_Nile.jpg</file>
+        <file>posters/Dont_look_up.jpg</file>
+        <file>posters/Everything_everywhere_all_at_once.jpg</file>
+        <file>posters/Hanataba_mitaina_koi_wo_shita.jpg</file>
+        <file>posters/Kaze_no_tani_no_Naushika.jpg</file>
+        <file>posters/Land_and_Freedom.jpg</file>
+        <file>posters/Lost_in_Translation.jpg</file>
+        <file>posters/Mimi_wo_sumaseba.jpg</file>
+        <file>posters/Mountains_may_depart.jpg</file>
+        <file>posters/Perfect_Blue.jpg</file>
+        <file>posters/Rocco_e_i_suoi_fratelli.jpg</file>
+        <file>posters/Sennen_joyu.jpg</file>
+        <file>posters/Song_of_the_Sea.jpg</file>
+        <file>posters/Soy_Cuba.jpg</file>
+        <file>posters/Still_Life.jpg</file>
+        <file>posters/The_Dust_of_Time.jpg</file>
+        <file>posters/The_Godfather.jpg</file>
+        <file>posters/The_Herdsman.jpg</file>
+        <file>posters/The_Medium.jpg</file>
+        <file>posters/The_Power_of_the_Dog.jpg</file>
+        <file>posters/Time_of_the_Gypsies.jpg</file>
+        <file>posters/Underground.jpg</file>
+        <file>posters/Vivarium.jpg</file>
+        <file>posters/War_and_Peace.jpg</file>
+        <file>posters/Witness_for_the_Prosecution.jpg</file>
+        <file>posters/Yi_Yi.jpg</file>
+        <file>posters/Yu_wo_wakasuhodo_no_atsui_ai.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background/covertest.jpg</file>
+        <file>background/loginbackground.jpg</file>
+        <file>background/logininputbackground.jpg</file>
+        <file>background/publicspacebackground.jpg</file>
+        <file>background/ypuclogo.jpg</file>
+        <file>background/ccd.jpg</file>
+    </qresource>
+</RCC>
